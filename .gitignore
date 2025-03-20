@@ -1,2 +1,3 @@
-readVoice
+.venv
 __pycache__
+.env
